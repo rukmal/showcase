@@ -1,4 +1,4 @@
-# showcase
+# showcase (http://git.io/show)
 
 Show off your GitHub profile with style.
 
