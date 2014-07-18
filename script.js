@@ -11,13 +11,17 @@ $(document).ready(function () {
 		setPageData();
 		$.get(GITHUB_API_BASE_URL + CONFIG_DATA.username + '/repos', function (repodata) {
 			REPO_DATA = repodata;
+			console.log(REPO_DATA);
 			startPopulating();
 		});
 	});
 
 	function setPageData() {
 		$('#forkmebanner').attr('href', 'http://github.com/' + CONFIG_DATA.username);
-		$('#title').text(CONFIG_DATA.name + '\'s GitHub Portfolio');
+		$('#title').text(CONFIG_DATA.firstname + ' ' + CONFIG_DATA.lastname + '\'s GitHub Portfolio');
+		$('#about').attr('href', CONFIG_DATA.about);
+		$('#website').attr('href', CONFIG_DATA.website);
+		$('#fullprofile').attr('href', 'http://github.com/' + CONFIG_DATA.username);
 	}
 
 	function startPopulating () {

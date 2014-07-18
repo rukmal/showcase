@@ -1,6 +1,8 @@
 {
 	"username": "rukmal",
-	"name": "Rukmal Weerawarana",
-	"showpicture": true,
-	"showstars": true
+	"firstname": "Rukmal",
+	"lastname": "Weerawarana",
+	"showstars": true,
+	"website": "http://rukmal.me",
+	"about": "http://rukmal.me/about"
 }
