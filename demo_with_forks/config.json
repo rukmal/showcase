@@ -2,7 +2,7 @@
 	"username": "rukmal",
 	"firstname": "Rukmal",
 	"lastname": "Weerawarana",
-	"showforks": false,
+	"showforks": true,
 	"website": "http://rukmal.me",
 	"about": "http://rukmal.me/about"
 }

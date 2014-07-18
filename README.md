@@ -2,8 +2,8 @@
 
 Show off your GitHub profile with style.
 
-| [Demo](http://rukmal.github.io/showcase) |
-| ------------------------------------------- |
+| [Demo](http://rukmal.github.io/showcase) | [Demo with forked Repos](http://rukmal.github.io/showcase/demo_with_forks) |
+| ------------------------------------------- | ------------------------------------------------------------------------- |
 
 ## Description
 
@@ -20,7 +20,7 @@ The ```config.json``` file must have the following information for showcase to f
     "username": "rukmal",
     "firstname": "Rukmal",
     "lastname": "Weerawarana",
-    "showstars": "true",
+    "showforks": "false",
     "website": "http://rukmal.me",
     "about": "http://rukmal.me/about"
 }
