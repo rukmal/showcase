@@ -22,7 +22,7 @@ body {
 
 #links > .col-md-4 > a {
 	color: #4C4C4C;
-	transition: color 0.5s;
+	transition: color 1s;
 	font-family: 'Shadows Into Light', sans-serif;
 	font-size: 2em;
 }

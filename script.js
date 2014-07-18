@@ -22,6 +22,7 @@ $(document).ready(function () {
 		$('#about').attr('href', CONFIG_DATA.about);
 		$('#website').attr('href', CONFIG_DATA.website);
 		$('#fullprofile').attr('href', 'http://github.com/' + CONFIG_DATA.username);
+		$('#pagetitle').text(CONFIG_DATA.firstname + '\'s GitHub Showcase');
 	}
 
 	function startPopulating () {
