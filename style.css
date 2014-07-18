@@ -1,0 +1,17 @@
+body {
+	background: #70caf4; /* Old browsers */
+	background: -moz-radial-gradient(center, ellipse cover,  #70caf4 0%, #119bf7 100%); /* FF3.6+ */
+	background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,#70caf4), color-stop(100%,#119bf7)); /* Chrome,Safari4+ */
+	background: -webkit-radial-gradient(center, ellipse cover,  #70caf4 0%,#119bf7 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-radial-gradient(center, ellipse cover,  #70caf4 0%,#119bf7 100%); /* Opera 12+ */
+	background: -ms-radial-gradient(center, ellipse cover,  #70caf4 0%,#119bf7 100%); /* IE10+ */
+	background: radial-gradient(ellipse at center,  #70caf4 0%,#119bf7 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#70caf4', endColorstr='#119bf7',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+}
+
+#title {
+	font-family: 'Just Me Again Down Here', sans-serif;
+	color: white;
+	margin-top: 1.5em;
+	font-size: 5em;
+}
