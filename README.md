@@ -2,6 +2,9 @@
 
 Show off your GitHub profile with style.
 
+| [Demo](http://rukmal.github.io/showcase) |
+| ------------------------------------------- |
+
 ## Description
 
 *_showcase_* creates a webpage that displays information about your GitHub repositories beautifully. It is built with the [GitHub API](http://developer.github.com), and a ton of front-end tools & frameworks ([jQuery](http://jquery.com), [Bootstrap](http://getbootstrap.com), etc.).
