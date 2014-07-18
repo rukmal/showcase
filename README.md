@@ -25,7 +25,7 @@ The ```config.json``` file must have the following information for showcase to f
 
 Next, commit and push and violá, you've set up your showcase!
 
-It will be hosted at http://[username].github.io/showcase.
+It will be hosted at ```http://[username].github.io/showcase```.
 
 ## Contact
 
