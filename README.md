@@ -2,7 +2,7 @@
 
 Show off your GitHub profile with style.
 
-| [Demo](http://rukmal.github.io/showcase) | [Demo with forked Repos](http://rukmal.github.io/showcase/demo_with_forks) |
+| [Demo without forked Repos](http://rukmal.github.io/showcase) | [Demo with forked Repos](http://rukmal.github.io/showcase/demo_with_forks) |
 | ------------------------------------------- | ------------------------------------------------------------------------- |
 
 ## Description
